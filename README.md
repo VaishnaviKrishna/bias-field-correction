@@ -6,4 +6,5 @@ The bias field estimation and reconstrucion of corrected MRI images are done in 
 * autoencoder_3axes_merged_reconstructed_mri.ipynb
 # Examples
 
-![](images/abc.png)
+<img src="images//mri%20images/1.jpg" width=320>
+![](images/mri%20images/1.jpg)

@@ -5,4 +5,4 @@ The bias field estimation and reconstrucion of corrected MRI images are done in 
 * autoencoder_bias_field_estimation.ipynb
 * autoencoder_3axes_merged_reconstructed_mri.ipynb
 # Examples
-![Corrupted MRI brain volume sliced along the x-axis after skull stripping] (https://github.com/VaishnaviKrishna/bias-field-correction/blob/master/images/mri%20images/1.jpg)
+![] (images/mri%20images/1.jpg)

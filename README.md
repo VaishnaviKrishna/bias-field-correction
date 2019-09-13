@@ -4,3 +4,5 @@ MRI images obtained by the application of very strong magnetic fields are genera
 The bias field estimation and reconstrucion of corrected MRI images are done in two separate notebooks:
 * autoencoder_bias_field_estimation.ipynb
 * autoencoder_3axes_merged_reconstructed_mri.ipynb
+# Examples
+

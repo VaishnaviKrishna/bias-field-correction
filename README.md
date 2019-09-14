@@ -14,13 +14,18 @@ The bias field estimation and reconstrucion of corrected MRI images are done in 
 * autoencoder_3axes_merged_reconstructed_mri.ipynb
 
 # Software
-* The analysis and implementation has been done using Python 3.6 version.
+* The analysis and implementation has been done using Python 3.6 version. 
 * The versions of the external libraries used are as mentioned below:
 
-* NumPy == 
-*
-* 
-*
+* NumPy == 1.16.4
+* Matplotlib == 3.0.3
+* Scikit-Learn == 0.21.1
+* Nibabel >= 2.0.2 
+
+The codes above also use Nilearn - a Python module for fast and easy statistical learning on NeuroImaging data. Nilearn can be installed by running the below mentioned command in a cell of Jupyter notebook:
+
+!pip install nilearn
+
 
 # Examples
 * The images below show the inputs to autoencoder (in the first row) and the bias field ground truths (in the second row) against which it was trained

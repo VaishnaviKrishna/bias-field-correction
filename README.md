@@ -21,7 +21,7 @@ The bias field estimation and reconstrucion of corrected MRI images are done in 
   * Scikit-Learn == 0.21.1
   * Nibabel >= 2.0.2 
 
-* The codes above also use Nilearn - a Python module for fast and easy statistical learning on NeuroImaging data. Nilearn can be installed after installing the above mentioned dependencies by running the below mentioned command in a cell of Jupyter notebook:
+* The codes above also use Nilearn - a Python module for fast and easy statistical learning on NeuroImaging data. Nilearn can be installed after installing the above mentioned dependencies by running the command as shown below:
 
   **!pip install nilearn**
 

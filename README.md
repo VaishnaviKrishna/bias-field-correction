@@ -15,6 +15,13 @@ The bias field estimation and reconstrucion of corrected MRI images are done in 
 
 # Software
 * The analysis and implementation has been done using Python 3.6 version.
+* The versions of the external libraries used are as mentioned below:
+
+* NumPy == 
+*
+* 
+*
+
 # Examples
 * The images below show the inputs to autoencoder (in the first row) and the bias field ground truths (in the second row) against which it was trained
 

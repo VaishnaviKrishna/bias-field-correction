@@ -1,4 +1,4 @@
-# Bias-field-correction
+# Bias field correction
 ## Introduction and Motivation
 * The intensity inhomogeniety in medical imaging that arises from magnetic settings, patients’ position etc is known as a bias field
 * The intensity of the same tissue should always be similar in one image and not vary with the location of the tissue

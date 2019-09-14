@@ -12,6 +12,9 @@ The **flowchart.png** in the images folder show the diagrammatic representation 
 The bias field estimation and reconstrucion of corrected MRI images are done in two separate notebooks:
 * autoencoder_bias_field_estimation.ipynb
 * autoencoder_3axes_merged_reconstructed_mri.ipynb
+
+# Software
+* The analysis and implementation has been done using Python 3.6 version.
 # Examples
 * The images below show the inputs to autoencoder (in the first row) and the bias field ground truths (in the second row) against which it was trained
 
